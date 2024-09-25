@@ -15,4 +15,15 @@
 11. copy the url of repository.
 12. git config --global user.name "  "
 13. git config --global user.email "  "
+14. git remote add origin https://github.com/AbhimanyuThamaraiselvan/Javascript-Task.git
+15. to check whether added or not - git remote -v 
+16. to check the status of local repository to know the files which are modified
+    - git status
+
+17. add the files to the staging area
+    - git add .  or git add filename
+18. commit the files to the local repository with a message
+    - git commit -m "message"
+19. push the files to the remote repository
+     - git push origin master
 */
